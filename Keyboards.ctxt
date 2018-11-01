@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Keyboards
+comment0.text=\n\ Write\ a\ description\ of\ class\ Keyboards\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Keyboards()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Keyboards\n
+comment2.params=keyboardname
+comment2.target=void\ addKeyboard(java.lang.String)
+comment3.params=index
+comment3.target=void\ removeKeyboard(int)
+comment4.params=
+comment4.target=void\ listKeyboards()
+comment5.params=
+comment5.target=void\ sellAllKeyboards()
+comment6.params=
+comment6.target=int\ size()
+comment7.params=searchString
+comment7.target=int\ findKeyboard(java.lang.String)
+comment8.params=searchString
+comment8.target=int\ findInstrument(java.lang.String)
+comment9.params=
+comment9.target=boolean\ getStock()
+numComments=10
